@@ -1,2 +1,2 @@
 # hello-world
-first reository
+This is my first reository
